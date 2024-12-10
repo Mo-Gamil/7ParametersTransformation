@@ -1,0 +1,57 @@
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.exe
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.deps.json
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.runtimeconfig.json
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.dll
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.pdb
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.AssemblyInfoInputs.cache
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.AssemblyInfo.cs
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.csproj.CoreCompileInputs.cache
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.dll
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\refint\Geodetic.Exercise.1.dll
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.pdb
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.genruntimeconfig.cache
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\ref\Geodetic.Exercise.1.dll
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.Shared.dll
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.Shared.pdb
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.csproj.AssemblyReference.cache
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.525C7555.Up2Date
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\MathNet.Numerics.dll
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.exe
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.deps.json
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.runtimeconfig.json
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.dll
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.pdb
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\MathNet.Numerics.dll
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.Shared.dll
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.Shared.pdb
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.csproj.AssemblyReference.cache
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.AssemblyInfoInputs.cache
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.AssemblyInfo.cs
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.csproj.CoreCompileInputs.cache
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.525C7555.Up2Date
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.dll
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\refint\Geodetic.Exercise.1.dll
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.pdb
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.genruntimeconfig.cache
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\ref\Geodetic.Exercise.1.dll
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.exe
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.deps.json
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.runtimeconfig.json
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.dll
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.1.pdb
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.Shared.dll
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\bin\Debug\net8.0\Geodetic.Exercise.Shared.pdb
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.csproj.AssemblyReference.cache
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.AssemblyInfoInputs.cache
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.AssemblyInfo.cs
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.csproj.CoreCompileInputs.cache
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.525C7555.Up2Date
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.dll
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\refint\Geodetic.Exercise.1.dll
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.pdb
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\Geodetic.Exercise.1.genruntimeconfig.cache
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercises\obj\Debug\net8.0\ref\Geodetic.Exercise.1.dll
