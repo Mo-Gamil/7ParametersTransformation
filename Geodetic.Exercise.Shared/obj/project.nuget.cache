@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J94VIEsJfJ0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mhale\\Downloads\\Fugro_project\\Geodetic_Exercises_Solution_Mohamed_Gamil\\Geodetic_Exercises_Solution\\Geodetic.Exercises\\Geodetic.Exercise.Shared\\Geodetic.Exercise.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhale\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

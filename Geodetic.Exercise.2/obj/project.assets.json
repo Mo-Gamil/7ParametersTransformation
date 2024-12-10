@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "MathNet.Numerics/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/MathNet.Numerics.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MathNet.Numerics.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Geodetic.Exercise.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MathNet.Numerics": "5.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Geodetic.Exercise.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Geodetic.Exercise.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathNet.Numerics/5.0.0": {
+      "sha512": "pg1W2VwaEQMAiTpGK840hZgzavnqjlCMTVSbtVCXVyT+7AX4mc1o89SPv4TBlAjhgCOo9c1Y+jZ5m3ti2YgGgA==",
+      "type": "package",
+      "path": "mathnet.numerics/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net461/MathNet.Numerics.dll",
+        "lib/net461/MathNet.Numerics.xml",
+        "lib/net48/MathNet.Numerics.dll",
+        "lib/net48/MathNet.Numerics.xml",
+        "lib/net5.0/MathNet.Numerics.dll",
+        "lib/net5.0/MathNet.Numerics.xml",
+        "lib/net6.0/MathNet.Numerics.dll",
+        "lib/net6.0/MathNet.Numerics.xml",
+        "lib/netstandard2.0/MathNet.Numerics.dll",
+        "lib/netstandard2.0/MathNet.Numerics.xml",
+        "mathnet.numerics.5.0.0.nupkg.sha512",
+        "mathnet.numerics.nuspec"
+      ]
+    },
+    "Geodetic.Exercise.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Geodetic.Exercise.Shared/Geodetic.Exercise.Shared.csproj",
+      "msbuildProject": "../Geodetic.Exercise.Shared/Geodetic.Exercise.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Geodetic.Exercise.Shared >= 1.0.0",
+      "MathNet.Numerics >= 5.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mhale\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mhale\\Downloads\\Fugro_project\\Geodetic_Exercises_Solution_Mohamed_Gamil\\Geodetic_Exercises_Solution\\Geodetic.Exercises\\Geodetic.Exercise.2\\Geodetic.Exercise.2.csproj",
+      "projectName": "Geodetic.Exercise.2",
+      "projectPath": "C:\\Users\\mhale\\Downloads\\Fugro_project\\Geodetic_Exercises_Solution_Mohamed_Gamil\\Geodetic_Exercises_Solution\\Geodetic.Exercises\\Geodetic.Exercise.2\\Geodetic.Exercise.2.csproj",
+      "packagesPath": "C:\\Users\\mhale\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mhale\\Downloads\\Fugro_project\\Geodetic_Exercises_Solution_Mohamed_Gamil\\Geodetic_Exercises_Solution\\Geodetic.Exercises\\Geodetic.Exercise.2\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mhale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\mhale\\Downloads\\Fugro_project\\Geodetic_Exercises_Solution_Mohamed_Gamil\\Geodetic_Exercises_Solution\\Geodetic.Exercises\\Geodetic.Exercise.Shared\\Geodetic.Exercise.Shared.csproj": {
+              "projectPath": "C:\\Users\\mhale\\Downloads\\Fugro_project\\Geodetic_Exercises_Solution_Mohamed_Gamil\\Geodetic_Exercises_Solution\\Geodetic.Exercises\\Geodetic.Exercise.Shared\\Geodetic.Exercise.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "MathNet.Numerics": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

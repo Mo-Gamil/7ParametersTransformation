@@ -1,0 +1,36 @@
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercise.Shared\bin\Debug\net8.0\Geodetic.Exercise.Shared.deps.json
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercise.Shared\bin\Debug\net8.0\Geodetic.Exercise.Shared.dll
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercise.Shared\bin\Debug\net8.0\Geodetic.Exercise.Shared.pdb
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.AssemblyInfoInputs.cache
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.AssemblyInfo.cs
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.csproj.CoreCompileInputs.cache
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.dll
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\refint\Geodetic.Exercise.Shared.dll
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.pdb
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\ref\Geodetic.Exercise.Shared.dll
+D:\Job Applications\Fugro\tech_assignment\OneDrive_1_11-28-2024\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.csproj.AssemblyReference.cache
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\bin\Debug\net8.0\Geodetic.Exercise.Shared.deps.json
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\bin\Debug\net8.0\Geodetic.Exercise.Shared.dll
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\bin\Debug\net8.0\Geodetic.Exercise.Shared.pdb
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.csproj.AssemblyReference.cache
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.AssemblyInfoInputs.cache
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.AssemblyInfo.cs
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.csproj.CoreCompileInputs.cache
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.dll
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\refint\Geodetic.Exercise.Shared.dll
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.pdb
+D:\Fugro\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\ref\Geodetic.Exercise.Shared.dll
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\bin\Debug\net8.0\Geodetic.Exercise.Shared.deps.json
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\bin\Debug\net8.0\Geodetic.Exercise.Shared.dll
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\bin\Debug\net8.0\Geodetic.Exercise.Shared.pdb
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.csproj.AssemblyReference.cache
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.AssemblyInfoInputs.cache
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.AssemblyInfo.cs
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.dll
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\refint\Geodetic.Exercise.Shared.dll
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\Geodetic.Exercise.Shared.pdb
+C:\Users\mhale\Downloads\Fugro_project\Geodetic_Exercises_Solution_Mohamed_Gamil\Geodetic_Exercises_Solution\Geodetic.Exercises\Geodetic.Exercise.Shared\obj\Debug\net8.0\ref\Geodetic.Exercise.Shared.dll
